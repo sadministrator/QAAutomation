@@ -1,0 +1,18 @@
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\QA hw2.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\QA hw2.pdb
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\WebDriver.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\WebDriver.Support.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\WebDriver.xml
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\bin\Debug\WebDriver.Support.xml
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\obj\Debug\QA hw2.csprojAssemblyReference.cache
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\obj\Debug\QA hw2.csproj.CoreCompileInputs.cache
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\obj\Debug\QA hw2.csproj.CopyComplete
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\obj\Debug\QA hw2.dll
+C:\Users\miserrano\source\repos\QA hw2\QA hw2\obj\Debug\QA hw2.pdb
